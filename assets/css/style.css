@@ -1,0 +1,160 @@
+* {
+    box-sizing: border-box
+}
+
+head {
+
+    background: #ffffff;
+
+    
+}
+
+body {
+
+    background-image: url(../../assets/images/background.png);
+    
+}
+
+
+
+.wrapper {
+    width: 100%;
+    margin: 0 auto 0 auto;
+    background: white;   
+    background-color: #ffffff;
+    height: 150px;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+    border-top-color: #ffffff
+    
+}
+h1 {
+    color: white;
+    background-color: #4aaaa5;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    margin-top: 70px;
+    float: left;
+    margin-left: 200px;
+    
+}
+
+.wrapper1 {
+    clear: both;
+    float: left;
+    width: 650px;
+    margin: 0 auto 0 auto; 
+    padding: 60 px;
+    background: white;
+    margin-top: 20px;
+    margin-left: 200px;
+    padding-bottom: 30px;
+    margin-bottom: 60px;
+    
+}
+
+
+nav {
+    float: right;
+    background: white;
+    margin-top: 80px;
+    margin-right: 200px;
+    
+}
+
+.wrapper2 {
+        float: right;
+        width: 270px;
+        background-color: #ffffff;
+        height: 220px;
+        margin: 0 auto 0 auto;
+        padding: 20px;
+        text-align: center;
+        margin-right: 60px;
+        margin-top: 20px;
+        
+}
+
+p {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    line-height: 28px;
+    color: #777777;
+}
+
+h2 {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    color: #4aaaa5;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border-bottom: #cccccc;
+    border-bottom-style: solid;
+
+}
+
+img {
+    padding: 10px;
+}
+
+a{
+    color: #777777;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    padding: 40px;
+    background: #666666;
+    height: 50px;
+    margin-top: 60px;
+    border-top-color: #4aaaa5;
+    border-top-style: solid; 
+    border-top-width: 8px;
+    color: #777777;
+}
+
+hr {
+    clear: both;
+    margin: 20px;
+    
+}
+.wrapper3 {
+    width: 650px;
+    margin: 0 auto 0 auto; 
+    padding: 60 px;
+    background: white;
+    margin-top: 20px;
+    margin-left: 200px;
+    
+
+}
+
+.contact {
+    margin-left: 30px;
+    
+}
+
+.forms {
+
+    margin-left: 30px;
+    
+    padding-bottom: 30px;
+}
+
+.wrapper4 {
+    width: 650px;
+    margin: 0 auto 0 auto; 
+    padding: 60 px;
+    background: white;
+    margin-top: 20px;
+    margin-left: 200px;
+    
+
+}
+@media only screen and (max-width: 980px 768px 640px) {
+    body {
